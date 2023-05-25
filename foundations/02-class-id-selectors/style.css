@@ -1,0 +1,16 @@
+.hotpink {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background: rgb(246, 146, 162);
+}
+.cool {
+    font-size: 24px;
+}
+#div_one {
+    color: blue;
+    font-size: 36px;
+}
+#div_two {
+    background: rgb(83, 245, 83);
+    font-size: 24px;
+    font-weight: bold;
+}
